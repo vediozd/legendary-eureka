@@ -2,18 +2,21 @@
 const _kReleaseConfigModel = AppConfigModel(
   localApiUrls: {
     'mm': [
-      "https://@{random}.frenzol.shop",
-      "https://@{random}.jalvora.shop",
-      "https://@{random}.krezulo.shop",
-      "https://@{random}.lumqira.shop",
-      "https://@{random}.mexlura.shop",
+      "https://@{random}.vxtklsqhd.com",
+      "https://@{random}.vzcumtkhp.com",
+      "https://@{random}.vzxcpnmlk.com",
       "https://d16ox4lrcts7sd.cloudfront.net",
       "https://d1mfzjgb13rr1x.cloudfront.net",
       "https://d3daddgcsv5z1g.cloudfront.net",
       "https://d2c2w0p8sjz1o7.cloudfront.net",
       "https://dskntn5w2jbb4.cloudfront.net",
+      "https://@{random}.wazumor.com",
+      "https://@{random}.wberqxan.com",
+      "https://@{random}.wbnfqz.com",
+      "https://@{random}.wcnopxkvg.com",
+      "https://@{random}.webtanamo.com",
       "https://api.zipdrama.io",
-      "https://zipdrama-api.mux-api.com",
+      "https://zipdrama-api.mux-api.com"
     ],
     'ir': [
       "https://d1d4byfyp6zm7b.cloudfront.net",
@@ -28,11 +31,10 @@ const _kReleaseConfigModel = AppConfigModel(
       "https://d3daddgcsv5z1g.cloudfront.net",
       "https://d2c2w0p8sjz1o7.cloudfront.net",
       "https://dskntn5w2jbb4.cloudfront.net",
-      "https://@{random}.frenzol.shop",
-      "https://@{random}.jalvora.shop",
-      "https://@{random}.krezulo.shop",
+      "https://@{random}.wazumor.com",
+      "https://@{random}.wberqxan.com",
       "https://api.zipdrama.io",
-      "https://zipdrama-api.mux-api.com",
+      "https://zipdrama-api.mux-api.com"
     ],
     fallbackKey: [
       "https://@{random}.frenzol.shop",
@@ -53,7 +55,7 @@ const _kReleaseConfigModel = AppConfigModel(
       "https://d2c2w0p8sjz1o7.cloudfront.net",
       "https://dskntn5w2jbb4.cloudfront.net",
       "https://api.zipdrama.io",
-      "https://zipdrama-api.mux-api.com",
+      "https://zipdrama-api.mux-api.com"
     ],
   },
   localLogUrls: {
