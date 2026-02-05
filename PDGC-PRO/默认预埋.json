@@ -2,22 +2,10 @@
 {
     "apiUrls": [
         "https://@{random}.frenzol.shop",
-        "https://d1d4byfyp6zm7b.cloudfront.net",
         "https://@{random}.jalvora.shop",
-        "https://dffeid9dlguv5.cloudfront.net",
         "https://@{random}.krezulo.shop",
-        "https://d23xbmkdgyrady.cloudfront.net",
         "https://@{random}.lumqira.shop",
-        "https://d1f5u82p4z6mfv.cloudfront.net",
         "https://@{random}.mexlura.shop",
-        "https://d2pe2j5hv7ngqy.cloudfront.net",
-        "https://d154pvmjlg8067.cloudfront.net",
-        "https://d31031fstgleqs.cloudfront.net",
-        "https://d1fs9fucag5id4.cloudfront.net",
-        "https://d2xy3gkefbi597.cloudfront.net",
-        "https://d3daddgcsv5z1g.cloudfront.net",
-        "https://d2c2w0p8sjz1o7.cloudfront.net",
-        "https://dskntn5w2jbb4.cloudfront.net",
         "https://api.zipdrama.io",
         "https://zipdrama-api.mux-api.com"
     ]
